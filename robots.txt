@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shiefoaru.herfstloop.com/sitemap.xml
